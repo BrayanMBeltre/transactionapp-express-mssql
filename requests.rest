@@ -1,0 +1,19 @@
+GET http://localhost:3000/api/transactions
+###
+
+POST http://localhost:3000/api/transactions  HTTP/1.1
+Content-Type: application/json
+
+{
+    "OriginAccount": "803900473",
+    "BankName": "BR",
+    "DestinyAccount": "803900475",
+    "DestinyDocument": "40248975984",
+    "Currency": "ARG",
+    "Amount": 100,
+    "Concept": "Para Hermano",
+    "Date": "2020-10-03"
+}
+
+# TODO: PUT
+# TODO: DELETE
