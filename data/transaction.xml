@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <element>
+        <TransactionID>1</TransactionID>
+        <OriginAccount>803900473</OriginAccount>
+        <BankName>APAP</BankName>
+        <DestinyAccount>803900475</DestinyAccount>
+        <DestinyDocument>40248975984</DestinyDocument>
+        <Currency>USD</Currency>
+        <Amount>1000</Amount>
+        <Concept>Para abuela</Concept>
+        <Date>2019-10-03T00:00:00.000Z</Date>
+    </element>
+</root>

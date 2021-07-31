@@ -1,0 +1,13 @@
+[
+  {
+    "TransactionID": 1,
+    "OriginAccount": "803900473",
+    "BankName": "APAP",
+    "DestinyAccount": "803900475",
+    "DestinyDocument": "40248975984",
+    "Currency": "USD",
+    "Amount": 1000,
+    "Concept": "Para abuela",
+    "Date": "2019-10-03T00:00:00.000Z"
+  }
+]
